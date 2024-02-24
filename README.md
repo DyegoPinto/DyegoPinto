@@ -1,24 +1,26 @@
-Hello I'm Dyego and I have over 10 years of experience in Business Intelligence area with data integration, data model design, ETL and script development.
+## Hello I'm Dyego Pinto
 
-Throughout those years, Iv'e worked with many BI tools such as :
+ I have over 10 years of experience in Business Intelligence area with data integration, data model design, ETL and script development.
+
+**Throughout those years, Iv'e worked with many BI tools such as :**
 
   -  Microsoft Integration Services (SSIS)
   -  Informatica Powercenter
   -  Talend Open Studio
   -  IBM Datastage
     
-Also with knowledge in the following databases:
+**Also with knowledge in the following databases:**
 
   - SQL Server
   - Oracle
   - MySQL
   - Postgres
 
-I'm currently working in my professional devolopment to learn more about the Big Data world right now.
+**I'm currently working in my professional devolopment to learn more about the Big Data world right now.**
 
-- 👀 I’m interested in Cloud ecosystem and Data engineering.
-- 🌱 I’m currently learning  Azure Data Factory, Python, Spark, PySpark e Databricks.
-- 📫 How to reach me www.linkedin.com/in/dyegosilva
+- 👀 I’m interested in **Cloud ecosystem and Data engineering.**
+- 🌱 I’m currently learning  **Azure Data Factory, Python, Spark, PySpark e Databricks.**
+- 📫 How to reach me **www.linkedin.com/in/dyegosilva**
 
 
 <!---
