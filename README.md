@@ -18,10 +18,12 @@
 
 **I'm currently working in my professional devolopment to learn more about the Big Data world right now.**
 
-- 👀 I’m interested in **Cloud ecosystem and Data engineering.**
-- 🌱 I’m currently learning  **Azure Data Factory, Python, Spark, PySpark e Databricks.**
-- 📫 How to reach me **www.linkedin.com/in/dyegosilva**
+  - 👀 I’m interested in **Cloud ecosystem and Data engineering.**
+  - 🌱 I’m currently learning  **Azure Data Factory, Python, Spark, PySpark e Databricks.**
+  - 📫 How to reach me **www.linkedin.com/in/dyegosilva**
 
+**Certification:**
+  - Microsoft Certified: AZ-900 Azure Fundamentals
 
 <!---
 DyegoPinto/DyegoPinto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
